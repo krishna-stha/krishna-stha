@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in high school studying at CCRC. Besides my academics, I have trained myself in frontend techs like HTML, CSS, JavaScript, C, PHP and SQL. Along with that, I am currently learning Python from CS50p (Harvard's Introduction to Python for intermediate programmers). I desire to learn more about Python, AI and ML, and pursue my career in data science.
+
 
 
 ## 🌐 Socials:
