@@ -1,19 +1,38 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  HOW TO USE THIS FILE                                            ║
+  ║                                                                  ║
+  ║  1. On GitHub, create a PUBLIC repo named EXACTLY your username  ║
+  ║     (e.g. user "krishna" -> repo "krishna"). Tick "Add README".  ║
+  ║  2. Replace this README with this file.                          ║
+  ║  3. Find & replace  krishna-stha  with your username.    ║
+  ║  4. Look for the  ✏️ EDIT  comments — those are the parts meant  ║
+  ║     to be customised (description, languages, socials, status).  ║
+  ║  5. Add .github/workflows/snake.yml (included) so the            ║
+  ║     contribution snake can generate itself. See bottom of file.  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+
+  Palette (same as the portfolio site):
+    background  #0B0B0D   ink     #F1EEE4
+    violet      #7C5CFF   cyan    #33E6D8   mustard #FFC53D
+-->
+
 <div align="center">
 
 <!-- Dynamic banner. ✏️ EDIT: change the text / desc -->
 <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=210&section=header&text=KRISHNA%20SHARAN%20SHRESTHA&fontColor=F1EEE4&fontSize=42&fontAlignY=42&desc=AI%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20ENTHUSIAST&descSize=17&descAlignY=64&descAlign=50&animation=fadeIn" />
 
 <!-- Typing animation. ✏️ EDIT: lines are separated by ';' and spaces are '+'. -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/krishna-stha">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7C5CFF&background=0B0B0D&center=true&vCenter=true&width=720&height=70&lines=%3E%3E%3E+import+torch;model.fit(coffee%2C+curiosity);Training+neural+nets+%E2%80%94+and+myself;Loss%3A+0.0021+%E2%9C%93;Debugging+gradients+at+2am" />
 </a>
 
 <br/>
 
 <!-- Live profile view counter -->
-<img alt="views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=7C5CFF&labelColor=0B0B0D&style=for-the-badge" />
-<img alt="followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&labelColor=0B0B0D&color=33E6D8" />
-<img alt="stars" src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&labelColor=0B0B0D&color=FFC53D" />
+<img alt="views" src="https://komarev.com/ghpvc/?username=krishna-stha&label=PROFILE+VIEWS&color=7C5CFF&labelColor=0B0B0D&style=for-the-badge" />
+<img alt="followers" src="https://img.shields.io/github/followers/krishna-stha?label=FOLLOWERS&style=for-the-badge&labelColor=0B0B0D&color=33E6D8" />
+<img alt="stars" src="https://img.shields.io/github/stars/krishna-stha?label=STARS&style=for-the-badge&labelColor=0B0B0D&color=FFC53D" />
 
 </div>
 
@@ -99,12 +118,12 @@ $ status
 <div align="center">
 
 <!-- GitHub stats, all recoloured to the site palette. -->
-<img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=0B0B0D&title_color=7C5CFF&icon_color=33E6D8&text_color=F1EEE4&text_bold=true" />
-<img height="180" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=7C5CFF&text_color=F1EEE4" />
+<img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=krishna-stha&show_icons=true&hide_border=true&count_private=true&bg_color=0B0B0D&title_color=7C5CFF&icon_color=33E6D8&text_color=F1EEE4&text_bold=true" />
+<img height="180" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-stha&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=7C5CFF&text_color=F1EEE4" />
 
 <br/>
 
-<img alt="streak" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B0B0D&ring=7C5CFF&fire=FFC53D&currStreakNum=F1EEE4&currStreakLabel=33E6D8&sideNums=F1EEE4&sideLabels=8C8C93&dates=8C8C93" />
+<img alt="streak" src="https://streak-stats.demolab.com?user=krishna-stha&hide_border=true&background=0B0B0D&ring=7C5CFF&fire=FFC53D&currStreakNum=F1EEE4&currStreakLabel=33E6D8&sideNums=F1EEE4&sideLabels=8C8C93&dates=8C8C93" />
 
 </div>
 
@@ -117,14 +136,14 @@ $ status
 <div align="center">
 
 <!-- Contribution activity as a live line graph -->
-<img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B0B0D&color=F1EEE4&line=7C5CFF&point=33E6D8&area=true&area_color=7C5CFF&hide_border=true&title_color=7C5CFF&custom_title=Contribution%20Loss%20Curve" />
+<img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-stha&bg_color=0B0B0D&color=F1EEE4&line=7C5CFF&point=33E6D8&area=true&area_color=7C5CFF&hide_border=true&title_color=7C5CFF&custom_title=Contribution%20Loss%20Curve" />
 
 <br/><br/>
 
 <!-- The contribution snake: an animated snake "eats" your contribution graph.
      It is generated daily by the GitHub Action in .github/workflows/snake.yml,
      so it will show a broken image until that workflow has run once. -->
-<img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img alt="contribution snake" src="https://raw.githubusercontent.com/krishna-stha/krishna-stha/output/github-contribution-grid-snake-dark.svg" />
 
 <sub><code>// the snake trains on your commits — the more you ship, the more it eats</code></sub>
 
