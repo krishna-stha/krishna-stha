@@ -52,7 +52,7 @@ $ cat about.txt
 > What are you obsessed with? What are you trying to learn next?
 
 $ echo $LOCATION
-> Kathmandu, Nepal                       # ✏️ EDIT
+> Kathmandu, Nepal                     
 
 $ status
 > STATUS: LEARNING()
@@ -77,10 +77,10 @@ $ status
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-- 🔭 **Currently exploring:** _✏️ EDIT — e.g. reinforcement learning_
-- 🌱 **Currently learning:** _✏️ EDIT — e.g. diffusion models_
-- 💬 **Ask me about:** _✏️ EDIT — e.g. PyTorch, computer vision, Python_
-- ⚡ **Fun fact:** _✏️ EDIT — something memorable_
+- 🔭 **Currently exploring:** _Aritificial Intelligence and Machine Learning_
+- 🌱 **Currently learning:** _Numpy, Pandas, Matplotlib, Sci-kit Learn, SQL_
+- 💬 **Ask me about:** _Python, Data Science, Machine Learning, Web Development, Database_
+
 
 <br/>
 
@@ -158,12 +158,11 @@ $ status
 <div align="center">
 
 <!-- ✏️ EDIT: replace each URL with your own. Delete any badge you don't want. -->
-<a href="https://YOUR_PORTFOLIO_URL"><img alt="portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C5CFF?style=for-the-badge&labelColor=0B0B0D&logo=googlechrome&logoColor=F1EEE4" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=linkedin&logoColor=7C5CFF" /></a>
-<a href="https://www.kaggle.com/YOUR_KAGGLE"><img alt="kaggle" src="https://img.shields.io/badge/KAGGLE-FOLLOW-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=kaggle&logoColor=33E6D8" /></a>
-<a href="https://huggingface.co/YOUR_HF"><img alt="hugging face" src="https://img.shields.io/badge/HUGGING%20FACE-FOLLOW-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=huggingface&logoColor=FFC53D" /></a>
-<a href="https://x.com/YOUR_X"><img alt="x" src="https://img.shields.io/badge/X-FOLLOW-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=x&logoColor=F1EEE4" /></a>
-<a href="mailto:YOUR_EMAIL"><img alt="email" src="https://img.shields.io/badge/EMAIL-SAY%20HI-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=gmail&logoColor=7C5CFF" /></a>
+<a href="https://krishnasharanshrestha.com.np"><img alt="portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C5CFF?style=for-the-badge&labelColor=0B0B0D&logo=googlechrome&logoColor=F1EEE4" /></a>
+<a href="https://linkedin.com/in/krishna-sharan-shrestha00/"><img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=linkedin&logoColor=7C5CFF" /></a>
+<a href="https://www.kaggle.com/nanwunwun"><img alt="kaggle" src="https://img.shields.io/badge/KAGGLE-FOLLOW-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=kaggle&logoColor=33E6D8" /></a>
+
+<a href="mailto:krishna.sharanshrestha00@gmail.com"><img alt="email" src="https://img.shields.io/badge/EMAIL-SAY%20HI-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=gmail&logoColor=7C5CFF" /></a>
 
 <br/><br/>
 
