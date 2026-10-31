@@ -48,7 +48,10 @@ $ whoami
 > Krishna Sharan Shrestha — AI & ML enthusiast
 
 $ cat about.txt
-> Write 2-3 sentences about yourself here. What do you build?
+> I am passionate about using data and technology to solve meaningful real-world problems. Based in Kathmandu, Nepal, I have a deep curiosity for STEM and enjoy understanding concepts beyond the surface. From mathematics and statistics to machine learning and artificial intelligence.
+I am currently expanding my expertise in AI, data science, and business analytics while continuously building practical skills through hands-on projects. I enjoy collaborating with others, learning from different perspectives, and applying analytical thinking to transform data into actionable insights.
+I am always interested in opportunities where I can contribute, learn, and grow. Whether it's data analytics, AI, business analytics, or another STEM-related field, I bring curiosity, adaptability, and a commitment to continuous improvement.
+If you're working on innovative ideas or impactful projects, I'd love to connect and explore how we can create value together.
 > What are you obsessed with? What are you trying to learn next?
 
 $ echo $LOCATION
