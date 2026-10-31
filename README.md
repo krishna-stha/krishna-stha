@@ -136,7 +136,7 @@ $ status
 <div align="center">
 
 <!-- Contribution activity as a live line graph -->
-<img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-stha&bg_color=0B0B0D&color=F1EEE4&line=7C5CFF&point=33E6D8&area=true&area_color=7C5CFF&hide_border=true&title_color=7C5CFF&custom_title=Contribution%20Loss%20Curve" />
+<!-- <img alt="activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-stha&bg_color=0B0B0D&color=F1EEE4&line=7C5CFF&point=33E6D8&area=true&area_color=7C5CFF&hide_border=true&title_color=7C5CFF&custom_title=Contribution%20Loss%20Curve" /> -->
 
 <br/><br/>
 
