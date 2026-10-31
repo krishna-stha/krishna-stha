@@ -1,21 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  HOW TO USE THIS FILE                                            ║
-  ║                                                                  ║
-  ║  1. On GitHub, create a PUBLIC repo named EXACTLY your username  ║
-  ║     (e.g. user "krishna" -> repo "krishna"). Tick "Add README".  ║
-  ║  2. Replace this README with this file.                          ║
-  ║  3. Find & replace  krishna-stha  with your username.    ║
-  ║  4. Look for the  ✏️ EDIT  comments — those are the parts meant  ║
-  ║     to be customised (description, languages, socials, status).  ║
-  ║  5. Add .github/workflows/snake.yml (included) so the            ║
-  ║     contribution snake can generate itself. See bottom of file.  ║
-  ╚══════════════════════════════════════════════════════════════════╝
-
-  Palette (same as the portfolio site):
-    background  #0B0B0D   ink     #F1EEE4
-    violet      #7C5CFF   cyan    #33E6D8   mustard #FFC53D
--->
 
 <div align="center">
 
@@ -48,11 +30,8 @@ $ whoami
 > Krishna Sharan Shrestha — AI & ML enthusiast
 
 $ cat about.txt
-> I am passionate about using data and technology to solve meaningful real-world problems. Based in Kathmandu, Nepal, I have a deep curiosity for STEM and enjoy understanding concepts beyond the surface. From mathematics and statistics to machine learning and artificial intelligence.
-I am currently expanding my expertise in AI, data science, and business analytics while continuously building practical skills through hands-on projects. I enjoy collaborating with others, learning from different perspectives, and applying analytical thinking to transform data into actionable insights.
-I am always interested in opportunities where I can contribute, learn, and grow. Whether it's data analytics, AI, business analytics, or another STEM-related field, I bring curiosity, adaptability, and a commitment to continuous improvement.
-If you're working on innovative ideas or impactful projects, I'd love to connect and explore how we can create value together.
-> What are you obsessed with? What are you trying to learn next?
+> I have a deep curiosity for STEM and enjoy understanding concepts beyond the surface. From mathematics and statistics to machine learning and artificial intelligence.
+> I am currently expanding my expertise in AI, data science, and business analytics while continuously building practical skills through hands-on projects.
 
 $ echo $LOCATION
 > Kathmandu, Nepal                     
@@ -148,7 +127,7 @@ $ status
      so it will show a broken image until that workflow has run once. -->
 <img alt="contribution snake" src="https://raw.githubusercontent.com/krishna-stha/krishna-stha/output/github-contribution-grid-snake-dark.svg" />
 
-<sub><code>// the snake trains on your commits — the more you ship, the more it eats</code></sub>
+<sub><code></code></sub>
 
 </div>
 
@@ -160,7 +139,7 @@ $ status
 
 <div align="center">
 
-<!-- ✏️ EDIT: replace each URL with your own. Delete any badge you don't want. -->
+->
 <a href="https://krishnasharanshrestha.com.np"><img alt="portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C5CFF?style=for-the-badge&labelColor=0B0B0D&logo=googlechrome&logoColor=F1EEE4" /></a>
 <a href="https://linkedin.com/in/krishna-sharan-shrestha00/"><img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=linkedin&logoColor=7C5CFF" /></a>
 <a href="https://www.kaggle.com/nanwunwun"><img alt="kaggle" src="https://img.shields.io/badge/KAGGLE-FOLLOW-0B0B0D?style=for-the-badge&labelColor=0B0B0D&logo=kaggle&logoColor=33E6D8" /></a>
